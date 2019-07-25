@@ -1,0 +1,19 @@
+.personal-info,
+.registration,
+.facts,
+.info {
+  margin-bottom: 20px;
+}
+
+.surname,
+.name,
+.age,
+.birthday,
+.mail,
+.cats,
+.color,
+.bedtime,
+.cars,
+.comments {
+  margin-bottom: 10px;
+}
