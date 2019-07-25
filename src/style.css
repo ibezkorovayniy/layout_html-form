@@ -1,19 +1,7 @@
-.personal-info,
-.registration,
-.facts,
-.info {
+.field-block {
   margin-bottom: 20px;
 }
 
-.surname,
-.name,
-.age,
-.birthday,
-.mail,
-.cats,
-.color,
-.bedtime,
-.cars,
-.comments {
+.input-block {
   margin-bottom: 10px;
 }
